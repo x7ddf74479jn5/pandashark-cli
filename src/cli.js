@@ -14,7 +14,7 @@ const UI = importJsx("./ui");
 meow(
   `
 	Usage
-	  $ sindresorhus
+	  $ pandashark
 `
 );
 
