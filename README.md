@@ -1,4 +1,4 @@
-# Pandashark ClI
+# Pandashark CLI
 
 ```shell
 npx pandashark
